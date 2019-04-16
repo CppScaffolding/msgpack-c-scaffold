@@ -1,0 +1,4 @@
+## .gitignore file for msgpack-c-scaffold
+
+## ignore folder fetched through gclient
+msgpack-c
